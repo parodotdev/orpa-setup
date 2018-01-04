@@ -16,7 +16,7 @@ node_modules\.bin\orpa-run.cmd
 
 ## Developement
 
-#### Refer to the Build Instructions from paradotdev/orpa-node-red
+#### Refer to the Development setup section from [ORPA-Node-RED](https://github.com/parodotdev/orpa-node-red)
 
 ## Getting Help
 
